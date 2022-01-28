@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #000000;
+    font-family: Roboto;
+}
+#container{
+    background-color: #000000;
+    padding-top: 45vh;
+    width: 100vw;
+    text-align: center;
+}
+h1{
+    color: #ffffff;
+    opacity: 0.25;
+    transition: 0.25s;
+    cursor: pointer;
+}
+h1:hover{
+    opacity: 1;
+}
